@@ -8,10 +8,11 @@ import qrcode
 import sys 
 
 id = sys.argv[1]
+# id = "18"
 data = datetime.now().strftime("%d/%m/%Y")
 hora = datetime.now().strftime("%H:%M:%S")
 
-canva = canvas.Canvas("../../../../../ticket.pdf", pagesize=(260, 530))
+canva = canvas.Canvas("ticket.pdf", pagesize=(260, 530))
 
 canva.drawString(10, 500, "DATA: " + str(data))
 

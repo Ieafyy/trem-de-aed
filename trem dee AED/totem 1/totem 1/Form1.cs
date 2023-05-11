@@ -27,8 +27,8 @@ namespace totem_1
             {
                 ProcessStartInfo start = new ProcessStartInfo();
                 start.FileName = "python";
-                start.Arguments = string.Format(@"..\..\..\..\..\cupom.py {0}", this.id);
-                Debug.WriteLine(string.Format(@"..\..\..\..\..\cupom.py {0}", this.id));
+                start.Arguments = string.Format(@"../../cupom.py {0}", this.id);
+                Debug.WriteLine(string.Format(@"../../cupom.py {0}", this.id));
                 start.UseShellExecute = false;
                 start.RedirectStandardOutput = true;
                 start.RedirectStandardError = true;
@@ -43,7 +43,7 @@ namespace totem_1
             else if (this.progressBar1.Value == 100)
             {
                 this.label1.Text = $"PRONTO! ID = {this.id}";
-                StreamWriter write = new StreamWriter(@"..\..\..\..\..\cache.txt");
+                StreamWriter write = new StreamWriter(@"../../cache.txt");
 
                 DateTime agora = DateTime.Now;
                 long dataEHora = long.Parse(agora.ToString("yyyyMMddHHmmss"));
@@ -61,7 +61,7 @@ namespace totem_1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            StreamReader read = new StreamReader(@"..\..\..\..\..\cache.txt");
+            StreamReader read = new StreamReader(@"../../cache.txt");
             this.id = int.Parse(read.ReadLine()) + 1;
             string linha;
             int error = 0;

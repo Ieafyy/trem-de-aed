@@ -8,26 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rapha\\.nuget\\packages\\": {}
+    "C:\\Users\\Matheus Valentin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rapha\\Downloads\\trem dee AED\\trem dee AED\\totem 1\\totem 1\\totem 1.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus Valentin\\Documents\\PUC\\TemDeAED\\trem-de-aed\\trem dee AED\\totem 1\\totem 1\\totem 1.csproj",
       "projectName": "totem 1",
-      "projectPath": "C:\\Users\\rapha\\Downloads\\trem dee AED\\trem dee AED\\totem 1\\totem 1\\totem 1.csproj",
-      "packagesPath": "C:\\Users\\rapha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rapha\\Downloads\\trem dee AED\\trem dee AED\\totem 1\\totem 1\\obj\\",
+      "projectPath": "C:\\Users\\Matheus Valentin\\Documents\\PUC\\TemDeAED\\trem-de-aed\\trem dee AED\\totem 1\\totem 1\\totem 1.csproj",
+      "packagesPath": "C:\\Users\\Matheus Valentin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Matheus Valentin\\Documents\\PUC\\TemDeAED\\trem-de-aed\\trem dee AED\\totem 1\\totem 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rapha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Matheus Valentin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,6 +54,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
