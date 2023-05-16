@@ -19,9 +19,6 @@
             }
             base.Dispose(disposing);
         }
-
-
-
         /// <summary>
         ///  Required method for Designer support - do not modify
         ///  the contents of this method with the code editor.
@@ -30,6 +27,7 @@
         {
             components = new System.ComponentModel.Container();
             label1 = new Label();
+            label2 = new Label();
             button1 = new Button();
             progressBar1 = new ProgressBar();
             timer1 = new System.Windows.Forms.Timer(components);
@@ -44,6 +42,16 @@
             label1.Size = new Size(351, 50);
             label1.TabIndex = 0;
             label1.Text = "SEJA BEM VINDO(A)";
+            //
+            // label2
+            //
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI", 8F, FontStyle.Regular, GraphicsUnit.Point);
+            label2.Location = new Point(570, 273);
+            label2.Name = "label2";
+            label2.Size = new Size(50, 8);
+            label2.TabIndex = 0;
+            label2.Text = "Criado por: Raphael, Matheus, Vinicius";
             // 
             // button1
             // 
@@ -72,12 +80,13 @@
             Controls.Add(progressBar1);
             Controls.Add(button1);
             Controls.Add(label1);
+            Controls.Add(label2);
             Name = "Form1";
             ResumeLayout(false);
             PerformLayout();
         }
-
         private Label label1;
+        private Label label2;
         private Button button1;
         private ProgressBar progressBar1;
         private System.Windows.Forms.Timer timer1;
