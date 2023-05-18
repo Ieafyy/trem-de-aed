@@ -10,6 +10,7 @@ namespace totem_1
             InitializeComponent();
         }
 
+
         public int id = 0;
         public Dictionary<int, long> dic = new Dictionary<int, long>();
 
