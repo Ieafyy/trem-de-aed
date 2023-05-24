@@ -1,0 +1,13 @@
+C:\Users\Matheus Valentin\source\repos\TrabalhoAED\TrabalhoAED\bin\Debug\TrabalhoAED.exe.config
+C:\Users\Matheus Valentin\source\repos\TrabalhoAED\TrabalhoAED\bin\Debug\TrabalhoAED.exe
+C:\Users\Matheus Valentin\source\repos\TrabalhoAED\TrabalhoAED\bin\Debug\TrabalhoAED.pdb
+C:\Users\Matheus Valentin\source\repos\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.csproj.AssemblyReference.cache
+C:\Users\Matheus Valentin\source\repos\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus Valentin\source\repos\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.Properties.Resources.resources
+C:\Users\Matheus Valentin\source\repos\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.csproj.GenerateResource.cache
+C:\Users\Matheus Valentin\source\repos\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Valentin\source\repos\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.exe
+C:\Users\Matheus Valentin\source\repos\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.pdb
+C:\Users\Matheus Valentin\source\repos\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.GeradorTicket.resources
+C:\Users\Matheus Valentin\source\repos\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.Login.resources
+C:\Users\Matheus Valentin\source\repos\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.Gerenciador.resources
