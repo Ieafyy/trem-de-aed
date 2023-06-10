@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TrabalhoAED.Telas;
+
 
 namespace TrabalhoAED
 {
@@ -19,7 +21,9 @@ namespace TrabalhoAED
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            CadastroUser formulario1 = new CadastroUser();
+            formulario1.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)
