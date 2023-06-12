@@ -40,7 +40,9 @@ namespace TrabalhoAED
 
         private void button4_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            EfetuarPagamento formulario3 = new EfetuarPagamento();
+            formulario3.Show();
         }
     }
 }

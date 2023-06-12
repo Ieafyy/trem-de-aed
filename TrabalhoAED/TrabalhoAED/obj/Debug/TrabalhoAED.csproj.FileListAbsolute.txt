@@ -41,3 +41,21 @@ C:\Users\rapha\OneDrive\Área de Trabalho\trem-de-aed-main\trem-de-aed-main\Trab
 C:\Users\rapha\OneDrive\Área de Trabalho\trem-de-aed-main\trem-de-aed-main\TrabalhoAED\TrabalhoAED\bin\Debug\Newtonsoft.Json.dll
 C:\Users\rapha\OneDrive\Área de Trabalho\trem-de-aed-main\trem-de-aed-main\TrabalhoAED\TrabalhoAED\bin\Debug\Newtonsoft.Json.xml
 C:\Users\rapha\OneDrive\Área de Trabalho\trem-de-aed-main\trem-de-aed-main\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.csproj.CopyComplete
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\bin\Debug\TrabalhoAED.exe.config
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\bin\Debug\TrabalhoAED.exe
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\bin\Debug\TrabalhoAED.pdb
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.csproj.AssemblyReference.cache
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.Telas.CadastroUser.resources
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.Gerenciador.resources
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.GeradorTicket.resources
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.Login.resources
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.Properties.Resources.resources
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.csproj.GenerateResource.cache
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.csproj.CopyComplete
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.exe
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.pdb
+C:\Users\Matheus Valentin\Source\Repos\Ieafyy\trem-de-aed\TrabalhoAED\TrabalhoAED\obj\Debug\TrabalhoAED.Telas.EfetuarPagamento.resources
