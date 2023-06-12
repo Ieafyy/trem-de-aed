@@ -58,6 +58,12 @@
     <Compile Include="Telas\CadastroUser.Designer.cs">
       <DependentUpon>CadastroUser.cs</DependentUpon>
     </Compile>
+    <Compile Include="Telas\EfetuarPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\EfetuarPagamento.Designer.cs">
+      <DependentUpon>EfetuarPagamento.cs</DependentUpon>
+    </Compile>
     <Compile Include="Telas\GeradorTicket.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +86,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Telas\CadastroUser.resx">
       <DependentUpon>CadastroUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\EfetuarPagamento.resx">
+      <DependentUpon>EfetuarPagamento.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Telas\Gerenciador.resx">
       <DependentUpon>Gerenciador.cs</DependentUpon>
