@@ -28,7 +28,9 @@ namespace TrabalhoAED
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            Saida formulario0 = new Saida();
+            formulario0.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)

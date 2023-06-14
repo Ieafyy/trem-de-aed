@@ -47,14 +47,27 @@ namespace TrabalhoAED
             else if (this.progressBar1.Value == 100)
             {
                 this.label1.Text = $"PRONTO! ID = {this.id}";
-                StreamWriter write = new StreamWriter(@"../../Dados/Cache/cache.txt");
-
+                
                 DateTime agora = DateTime.Now;
                 long dataEHora = long.Parse(agora.ToString("yyyyMMddHHmmss"));
-                dic.Add(id, dataEHora);
-                write.WriteLine(this.id);
-                foreach (KeyValuePair<int, long> item in dic) write.WriteLine($"{item.Key};{item.Value}");
+                
 
+                StreamReader read = new StreamReader(@"../../Dados/Cache/cache.txt");
+
+                string linha;
+                string saida = "";
+                saida += $"{int.Parse(read.ReadLine()) + 1}\n";
+
+                while ((linha = read.ReadLine()) != null)
+                {
+                    saida += $"{linha}\n";
+                }
+
+
+                read.Close();
+                StreamWriter write = new StreamWriter(@"../../Dados/Cache/cache.txt");
+                write.Write(saida);
+                write.Write($"{id};{agora.ToString("yyyyMMddHHmmss")};ABERTO");
                 write.Close();
 
                 this.progressBar1.Value = 0;
